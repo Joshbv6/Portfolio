@@ -14,7 +14,7 @@
 - name: Scrum
   weight: 3
 
-- name: Travis CI
+- name: API
   weight: 1
 
 - name: Jenkins
@@ -29,8 +29,14 @@
 - name: gulp
   weight: 4
 
+  - name: XML
+  weight: 1
+
 - name: VS Code
   weight: 3
 
 - name: Postman
   weight: 4
+
+  - name: JSON
+  weight: 1
