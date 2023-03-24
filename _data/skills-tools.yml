@@ -38,5 +38,5 @@
 - name: Postman
   weight: 4
 
-  - name: JSON
+- name: JSON
   weight: 1
