@@ -29,7 +29,7 @@
 - name: gulp
   weight: 4
 
-  - name: XML
+- name: XML
   weight: 1
 
 - name: VS Code
