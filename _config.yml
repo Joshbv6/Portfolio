@@ -25,8 +25,8 @@ github_username: Joshbv6
 codepen_username: 
 dev_username: 
 linkedin_username: Joshua Bañón Valera #https://www.linkedin.com/in/joshua-bañón-valera-86b986231/?original_referer=
-twitter_username: 
-instagram_username: Joshua Bañón Valera
+instagram_username: Joshbv6
+phone: '622459745'
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -55,13 +55,13 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.canva.com/design/DAFawwV4h3Q/VK71ZevvkWRpa1AZHQgUOw/view?utm_content=DAFawwV4h3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2
+cv_download_link: https://www.canva.com/design/DAFawwV4h3Q/VK71ZevvkWRpa1AZHQgUOw/view?utm_content=DAFawwV4h3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
 
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: false
+show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
