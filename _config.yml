@@ -24,7 +24,7 @@ twitter_username:
 github_username: Joshbv6
 codepen_username: 
 dev_username: 
-linkedin_username: Joshua Bañón Valera 
+linkedin_username: Joshua Bañón Valera #https://www.linkedin.com/in/joshua-bañón-valera-86b986231/?original_referer=
 instagram_username: Joshbv6
 
 # ABOUT ME SECTION
@@ -60,7 +60,7 @@ cv_download_link: https://www.canva.com/design/DAFawwV4h3Q/VK71ZevvkWRpa1AZHQgUO
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: false
+show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
