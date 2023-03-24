@@ -15,7 +15,7 @@
   weight: 4
 
 - name: Node
-  weight: 1
+  weight: 4
 
 - name: Django
   weight: 4
