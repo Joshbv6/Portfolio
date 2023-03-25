@@ -1,5 +1,5 @@
 {% if site.show_projects %}
-  <h1 class="title"><span>{{site.projects_title}}</span></h1>
+  <a class="highlight-link" href="{{project.demo}} " target="_blank" rel="noreferrer"><h1 class="title"><span>{{site.projects_title}}</span></h1></a>
   <div class="projects-wrapper">
     {% for project in site.data.projects %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
@@ -7,10 +7,10 @@
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
-        {% if project.demo %}
+        <!--{% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
           </a>
-        {% endif %}
+        {% endif %}-->
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}

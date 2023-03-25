@@ -16,36 +16,24 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-
-- title: Harvard - CS50x
-  title-url: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
-  date: Apr 2022 - Sep 2022
-#  subtitle: Software Engineer as Intern
-  tags:
-    - tag: C++
-    - tag: Python
-    - tag: Flask
-    - tag: HTML5
-    - tag: CSS3
-    - tag: JavaScript
-    - tag: jQuery
-    - tag: AJAX
-  timeline-side: right
-
-- title: Full-Stack Master
-  title-url: https://www.udemy.com/course/master-en-desarrollo-web-full-stack-angular-node-laravel-symfony/
-  date: March 2023 - May 2023
-#  subtitle: Software Engineer as Intern
+- title: Idealista - Inmovilla
+  title-url: https://inmovilla.com
+  date: Oct 2022 - Present
+  subtitle: Fullstack Developer
   tags:
     - tag: PHP
-    - tag: Laravel
-    - tag: Symfony 5
-    - tag: Angular
-    - tag: Node
-    - tag: Single Page Applications (SPA)
-    - tag: MongoDB
+    - tag: Javascript
+    - tag: CSS3
+    - tag: SQL
+    - tag: HTML5
+    - tag: jQuery
     - tag: AJAX
-  timeline-side: left
+    - tag: Domain Security
+    - tag: CI/CD
+    - tag: DOM
+    - tag: API Rest
+    - tag: DNS zone
+  timeline-side: right
 
 #- title: Super University
 #  title-url: https://example.com/
