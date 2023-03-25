@@ -68,10 +68,10 @@
             </div>
           </div>
           <p class="project-desc">{{repository.description}}</p>
-          {% if repository.homepage != "" %}
-            <a class="highlight-link" href="{{repository.homepage}}" target="_blank" rel="noreferrer">
+          {% if repository.homepage != "" and repository.homepage != null %}
+            <a class="highlight-link" href="joshbv6.github.io/{{repository.name}}/" target="_blank" rel="noreferrer">
               Demo
-            </a>
+            </a>&nbsp;&nbsp;
           {% endif %}
           <a class="highlight-link" href="{{repository.html_url}}" target="_blank" rel="noreferrer">
             Github
