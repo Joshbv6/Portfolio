@@ -15,19 +15,14 @@
   weight: 3
 
 - name: API
-  weight: 3
+  weight: 5
 
 - name: Jenkins
   weight: 3
 
-- name: Chrome DevTools
-  weight: 3
-
-- name: npm
-  weight: 3
 
 - name: XML
-  weight: 3
+  weight: 4
 
 - name: JSON
-  weight: 3
+  weight: 5

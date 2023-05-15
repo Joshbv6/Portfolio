@@ -32,7 +32,7 @@
     - tag: CI/CD
     - tag: DOM
     - tag: API Rest
-    - tag: DNS zone
+    - tag: DNS Records
   timeline-side: right
 
 #- title: Super University
