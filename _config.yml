@@ -103,7 +103,7 @@ projects:
     # > setting this to false, will also display forked repositories
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
-    projects: Portfolio,Techwar
+    projects: Portfolio,Techwar,SQL-Injection
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
