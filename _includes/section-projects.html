@@ -25,6 +25,8 @@
 {% endif %}
 
 {% if site.show_os_projects %}
+
+<section id="projects"><div id="projects"></div></section>
   <h1 class="title">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
