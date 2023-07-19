@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: DevSec
+title: JoshBV6&nbsp;&nbsp;&#171;Projects&#187; 
 # description: This will be meta HTML tag content. This can be ignored.
 description: Hi, I'm Josh, Full-Stack Developer. Come in and get to know more about me!!
 # baseurl: The subpath of your site
@@ -31,7 +31,7 @@ instagram_username: Joshbv6
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: true
+show_aboutme_card: false #true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
@@ -41,7 +41,7 @@ about_me_description: Skilled Full-stack Developer with experience in developing
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false #true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -49,7 +49,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false #true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Experience
 # cv_download_link: The link where you host your cv.
@@ -64,7 +64,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false #true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Education & Certifications
 # show_os_projects:
@@ -103,7 +103,7 @@ projects:
     # > setting this to false, will also display forked repositories
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
-    projects:
+    projects: Portfolio,Techwar
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
