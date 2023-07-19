@@ -7,7 +7,7 @@ title: JoshBV6&nbsp;&nbsp;&#171;Projects&#187;
 description: Hi, I'm Josh, Full-Stack Developer. Come in and get to know more about me!!
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/Portfolio"
+baseurl: "https://joshbv6.github.io"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
